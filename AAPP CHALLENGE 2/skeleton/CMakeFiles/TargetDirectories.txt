@@ -1,0 +1,3 @@
+/mnt/c/users/andrea/desktop/skeleton/CMakeFiles/main.dir
+/mnt/c/users/andrea/desktop/skeleton/CMakeFiles/edit_cache.dir
+/mnt/c/users/andrea/desktop/skeleton/CMakeFiles/rebuild_cache.dir
